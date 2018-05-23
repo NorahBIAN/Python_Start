@@ -73,8 +73,7 @@ while(1):
     else:
          levelFlag = False
          print('stop pouring')
-    
- 
+        
     
     if k == 27:
         break
