@@ -1,10 +1,12 @@
 # Python_Start
 
 
+## 2018/5/28
+Windows 10 64bit, Python 3.6, OpenCV 3
+Upload <detectblindpoint>
+Based on Python tutorial ALIENWAR, I made a demo for measure blind point in eyes.
 
-
-
-# 2018/5/23
+## 2018/5/23
 Windows 10 64bit, Python 3.6, OpenCV 3
 
 Upload < liquidLevelDetect.py>
